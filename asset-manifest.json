@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/expense-tracking-app/static/css/main.073c9b0a.css",
-    "main.js": "/expense-tracking-app/static/js/main.cffcb63d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/expense-tracking-app/static/js/787.28cb0dcd.chunk.js",
-    "static/media/logo.svg": "/expense-tracking-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/expense-tracking-app/index.html",
-    "main.073c9b0a.css.map": "/expense-tracking-app/static/css/main.073c9b0a.css.map",
-    "main.cffcb63d.js.map": "/expense-tracking-app/static/js/main.cffcb63d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/expense-tracking-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Expense-Tracker/static/css/main.53a76416.css",
+    "main.js": "/Expense-Tracker/static/js/main.f30b315e.js",
+    "static/js/787.afd34582.chunk.js": "/Expense-Tracker/static/js/787.afd34582.chunk.js",
+    "index.html": "/Expense-Tracker/index.html",
+    "main.53a76416.css.map": "/Expense-Tracker/static/css/main.53a76416.css.map",
+    "main.f30b315e.js.map": "/Expense-Tracker/static/js/main.f30b315e.js.map",
+    "787.afd34582.chunk.js.map": "/Expense-Tracker/static/js/787.afd34582.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.cffcb63d.js"
+    "static/css/main.53a76416.css",
+    "static/js/main.f30b315e.js"
   ]
 }
